@@ -11,10 +11,4 @@ This repository contains Python implementations of various **data structures** i
 - **Expression Parser**: A basic parser for evaluating mathematical expressions using **stacks**.
 
 ---
-
-### How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
+![My Custom GIF](https://myhostingplatform.com/mygif.gif)
