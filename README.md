@@ -1,15 +1,18 @@
-# Data Structures Implementation in Python
+# Data Structures in Python
 
-This repository contains Python implementations of common **data structures** including **Stack**, **Queue**, and **Linked Lists** using different methods such as **Arrays** and **Dynamic Linked Lists**. Additionally, implementations for **N-dimensional arrays**, **expression parsers**, and **linked list operations** like **insert**, **delete**, **search**, and **display** are included.
+This repository includes Python implementations of various **data structures** including **Stack**, **Queue**, **Linked Lists**, and **N-dimensional Arrays**. These implementations cover both **array-based** and **dynamic linked list-based** approaches, along with additional features such as an **expression parser**.
 
-## Table of Contents
+## Programs Included:
 
-- [Stack Implementation](#stack-implementation)
-- [Queue Implementation](#queue-implementation)
-- [Linked List Operations](#linked-list-operations)
-- [N-Dimensional Arrays](#n-dimensional-arrays)
-- [Expression Parser](#expression-parser)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [License](#license)
+- **Stack**: Implemented using arrays and linked lists.
+- **Queue**: Implemented using arrays and dynamic linked lists.
+- **Linked Lists**: Operations such as **append**, **insert**, **delete**, and **search**.
+- **N-Dimensional Arrays**: Creation and manipulation of N-dimensional arrays using **NumPy**.
+- **Expression Parser**: A basic parser for evaluating mathematical expressions using **stacks**.
 
+## How to Run:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
