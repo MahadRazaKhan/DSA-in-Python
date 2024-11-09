@@ -10,9 +10,4 @@ This repository includes Python implementations of various **data structures** i
 - **N-Dimensional Arrays**: Creation and manipulation of N-dimensional arrays using **NumPy**.
 - **Expression Parser**: A basic parser for evaluating mathematical expressions using **stacks**.
 
-## How to Run:
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
