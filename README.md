@@ -13,19 +13,3 @@ This repository contains Python implementations of common **data structures** in
 - [How to Run](#how-to-run)
 - [License](#license)
 
-## Stack Implementation
-
-This implementation provides **Stack** operations using both **Arrays** and **Dynamic Linked Lists**.
-
-- **Push**: Adds an element to the top of the stack.
-- **Pop**: Removes the top element from the stack.
-- **Peek**: Returns the top element without removing it.
-- **Display**: Prints all the elements in the stack.
-
-### Example (Using Array):
-
-```python
-stack = Stack()
-stack.push(10)
-stack.push(20)
-stack.display()
